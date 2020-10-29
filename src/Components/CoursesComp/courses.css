@@ -1,0 +1,41 @@
+.chead{
+    margin-left: 1.1%;
+}
+.ch{
+    margin-top: 5%;
+    margin-left: 12%;
+}
+.cres{
+    width:40%;
+    /* margin-top: 10%; */
+}
+.cdesc{
+    width:40%;
+}
+.ulli{
+    width: 40%;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 8%;
+
+}
+.fh{
+    margin-bottom: 6%;
+    cursor: pointer;
+}
+.twins{
+    width:35%
+}
+@media screen and (max-width:700px){
+
+    .cres{
+        width:70%;
+        margin-left: 15%;
+    }
+    .cdesc, .ulli, .fh, .twins,.resp{
+        width:80%;
+        margin-left: 10%;
+        font-size: 0.85rem;
+    }
+    
+}

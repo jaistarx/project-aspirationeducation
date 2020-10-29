@@ -1,0 +1,70 @@
+.carousel{
+    width:86%;
+    margin-left: 7%;
+    margin-right: 7%;
+    
+}
+.reds1 {
+    background-color: #ff4747;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding-top: 4%;
+    padding-bottom: 2.5%;
+    color: white;
+    text-align: center;
+  }
+  .hd {
+    margin-top: 5%;
+    margin-bottom: 1%;
+  }
+  
+
+.stext{
+    font-size: 1.2rem;
+    margin-top: 1%;
+}
+.stext2{
+    font-size: 1.2rem;
+    margin-top: 6%;
+}
+.rimg{
+    width:70%;
+}
+.rt{
+    width: 60%;
+}
+.spl{
+    margin-top: 0.5%;
+    margin-left: 3%;
+    width: 25%;
+}
+.downloads{
+    width: 20%;
+   margin-bottom: 3%;
+   padding-bottom: 0%;
+   padding-top: 3%;
+}
+
+@media screen and (max-width:700px){
+   .rt{
+       width:80%;
+       margin-left: 10%;
+       text-align: justify;
+       font-size: 0.9rem;
+   } 
+   .if{
+       width:90%;
+       margin-left: 5%;
+   }
+   .spl{
+       font-size: 0.9rem;
+       width: 90%;
+       margin-left: 5%;
+   }
+   .downloads{
+       width:60%;
+       margin-left: 20%;
+       margin-right: 20%;
+   }
+   
+}
